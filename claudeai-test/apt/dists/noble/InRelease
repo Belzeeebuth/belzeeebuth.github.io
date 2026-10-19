@@ -1,0 +1,40 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: Selene OS
+Label: Selene OS
+Suite: noble
+Codename: noble
+Version: 1.0.0
+Date: Mon, 19 Oct 2026 13:28:38 UTC
+Architectures: amd64
+Components: main
+Description: Selene OS updates (shell, apps, helpers, Electron)
+MD5Sum:
+ 2644a182c661a25131f6cf0d8a1f9ce4             2017 main/binary-amd64/Packages
+ 0ba229edaf20b5d6cffacfd9ec5eeaa4              955 main/binary-amd64/Packages.gz
+ 657b00b688034142b764249c1d2defb8               86 main/binary-amd64/Release
+SHA1:
+ c0dd5ecde4d922b2fae1e4fcc5d1fcc39232beb4             2017 main/binary-amd64/Packages
+ 971633df9481c94bf92c8faeab1a9ee67a9302f3              955 main/binary-amd64/Packages.gz
+ 486b41830cc588880c2bef80e1a45fad5b86cd77               86 main/binary-amd64/Release
+SHA256:
+ 8799e5b71c8432ce387a95a164be382c7e88ae38a8ca7565dc5eab2bef236097             2017 main/binary-amd64/Packages
+ 6431a861e8349c89f0bca701a95d5ce6a33f476244c6ecddacfad09e6df8be06              955 main/binary-amd64/Packages.gz
+ bceff684038d21995f403eb7953af56a0d49787eb6bee88c75db9142144ef486               86 main/binary-amd64/Release
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEEEyfYvCab1CZPGfVs+uTr+KCF03AFAmrWGwYACgkQ+uTr+KCF
+03CNCA/8DW6HOeDlNqS5wskUKc9fkOoqhjutqIxZKP+tZHBFIU2gmUCjGqj/3WhO
+gaKRDIdR9y0TnHgCXBNLWlCLohwBDG5+IOnk+mbuYa0J2hXw6N7fl05/3ucoDvGQ
+BOWErpjRBVy7BQDM3CnGqozgJuc1wRP/SAuZktY1Gy5Xf+GLa5C/2eLmGCoZ/Xwh
+Ehm/34bCxkjfwpoBfEIT+wGH2zUwcAmM7rt6w+fnw7sp0eaYCmF6tNSENXpGBPyZ
+XMuTQoqBCcVxEQ1rFs8XPr/PE6hx1r8+DCwCSQZKyMiZCSD6RvfUfCMBnnFInns7
+9FDtso/7Rf1xTN1vtKD6Izz32Yypal7BpUavk1zfa/8JtFV6v2Mmf+TwcFf4uvvh
+Q23dPH3hEJnlAGQ2iw6bBELKA/R4SjA6Ct+Xy+Z7SWOH40MIZkz6v4yIJfO3GLPZ
+L2bsqnZOf+sGflKvpSTnlN0HIJdKJdOyJec6p6CHeFWzqSHaEUjsfghAdex+rz1d
+jKNI76AFFAbI+MW0ufLIEcmVaCM4CRlOvfY1PX+wiFZrD0wCWaJo7zWehIkpgxq6
+6oAttu8isTsXMCgxACHdQxTW0bDOLcCPliTZtdoq1NiN/zm0+vW0Lk6WSmtZy45U
+nSz2XgFXpJKdfygbtI8iOA55CiurtDJgz1TPAg9ORVZh2vbGSyc=
+=8LMk
+-----END PGP SIGNATURE-----
