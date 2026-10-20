@@ -6,35 +6,35 @@ Label: Selene OS
 Suite: noble
 Codename: noble
 Version: 1.0.0
-Date: Tue, 20 Oct 2026 13:18:11 UTC
+Date: Tue, 20 Oct 2026 13:54:06 UTC
 Architectures: amd64
 Components: main
 Description: Selene OS updates (shell, apps, helpers, Electron)
 MD5Sum:
- f5fa54ff5bbf9f6198eae54adce21c48             4771 main/binary-amd64/Packages
- 38d9d00916057695037fc5aa10200af6             1404 main/binary-amd64/Packages.gz
+ 6faf2b84d1fe742ecfc64fff73927f4f             2017 main/binary-amd64/Packages
+ b8e1ac3b0c09d090644e0305dd864eaf              953 main/binary-amd64/Packages.gz
  657b00b688034142b764249c1d2defb8               86 main/binary-amd64/Release
 SHA1:
- 21cfeccc0aa2cdd8eafb90d26d6b447da7391294             4771 main/binary-amd64/Packages
- db548b88fd828393172638ad7c43e6a49dfef7a5             1404 main/binary-amd64/Packages.gz
+ a088920faf5aa38b5311538f9a36407dfba50cdc             2017 main/binary-amd64/Packages
+ 5773b3330224eae3cd534a069a2c7d114d6e1db7              953 main/binary-amd64/Packages.gz
  486b41830cc588880c2bef80e1a45fad5b86cd77               86 main/binary-amd64/Release
 SHA256:
- 2547ad7597868ccae4683245983fa44bfc8191b7e7fdbc44948ca3e6e9f13b86             4771 main/binary-amd64/Packages
- 4418abe0c18ee463894f2648eb68662a8c36864a7ecbc3a99d25776b032fb717             1404 main/binary-amd64/Packages.gz
+ 96ed5f8cd35eb97628c9423cc58469888f4d03a082749522e297c0a3b3757f76             2017 main/binary-amd64/Packages
+ 29413a0ff28877b93933095b9b32aa41060293cfb0c4908939420933fb743573              953 main/binary-amd64/Packages.gz
  bceff684038d21995f403eb7953af56a0d49787eb6bee88c75db9142144ef486               86 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEEyfYvCab1CZPGfVs+uTr+KCF03AFAmrXahMACgkQ+uTr+KCF
-03APzA/+OCSXqA9ze2/6Nc8egV2QvTxcyz8aSwHm+Nkps6uTLii8l6j473vDEMmi
-jpo4UkBC7O2ZX/J1TjQyH/vdMutbFTzZ+OYWLOMBJF0xut6gB6e4pZP27dXhuuFm
-NtUvcT7L46bpMjU7hbkZLU2iukZoI8bmflwP5JMOxcIRYwQbZAhlEUAAbrJK/hT5
-TGjmUsVKlEJdA8PPT9RgA2XlczeeUvfKACaG4XM252JNIg/QtWO/Ecz3R/l7q0NG
-bCYtowkj8ffag0jgRZHbaZYdZfEhppMgKqCJ18rjLuDqGQLj+9+8JSNA0+5Bt1Ng
-aBL41gJi+3dXs81Aa8PCXIe57KScGp0MZD0V3Qh9ZkiAY9pogzS8+lL9XF1T1wIK
-YhyHgbWkRkPy5CJz5zxTPDMYTxqz/4lKL6HJvqi6Ka1E09Qu2LwajqXZWyxHOLVN
-9i1MSWT0s4+1Us4VXtQOPal/nFzaVN3d3+zEPYKNvW7UiKbw8uT1DRlgyXkeRlab
-G5j2l7SZ9JWCwzO54TczDG46BQ44D41O9sgjsuAzRh+Gw73ADtuQgO510eoQCg3u
-k0A5blw6GCctE42mMO+72mN2gw1LEL50PUDfyCRmdeuaokIWrPcX6euZSFD14yAW
-fWZkUuADsDB0kfQ8bTigJLLJws1heya9Ix9MQLHRMSLLwfS7h9M=
-=h++X
+iQIzBAEBCgAdFiEEEyfYvCab1CZPGfVs+uTr+KCF03AFAmrXcn4ACgkQ+uTr+KCF
+03DuMQ/9GWXKwO1cfbQat2oqpDKgVjCG+vhyQbKCDVY3iTzy9i+5/dUbgrxAmDDc
+lhemLYKfPl6bqZzKEMYOsE9725ZsjQ5t8ZA9e2ke1IacKsbkq1dK3d6MLiMjvGE0
+LWKMktZfxqyLUwxjojbdl9cRE/lgy3MjryTuQRacjWOQXc1qrpPgxzODvrVtW5Gi
+ReKbSULO2oboeH+igRYP7RW0E78ve6p2SjTKhk+ly+iV3s9jvvFHYFjdhPzzJBvm
+Uk6Jt2KF0AqjVu4y/JYAdqaO6SifbjWEb/DyoD1Up8wUEJ/0gkHnwij8lLvXv885
+UcWKOFba3pwldCijTuc/eQsV8oVP7oJVoeeOvFPT9/i8Ler29YejkPuFmhwp3caU
+43o4j1euKCE0td0lB/e5lZfqcBRBN23VS+7AsHKyxIMtlv9G9rBDYrb1oDIGMPhG
+Lnn2VjITDREgPBw67sulMcBeb7SNdATnGrlDxzewz39pEQ6udOw47+9E3FObrezu
+2VJ7uM74mRg9CbSGG6oAyfoxKipk+6P0uuvhiOZ2DvY1kS05aLIgX6kBkLxFMYtu
+OKaBJoBblM9Zb3zDyLN9i4Manqg8H4dCDrIYX3yFQjDtO8R3lhYob8TJImZv2ZiH
+Ms1nowBmQD4gf9aQBCt3irM5xXB2qEV0oYQevFp+Qg4xYZH14dg=
+=ZMjV
 -----END PGP SIGNATURE-----
