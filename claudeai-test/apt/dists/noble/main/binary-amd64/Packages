@@ -32,6 +32,23 @@ MD5sum: 9fb5c17ec851c0fa40802c51388657f9
 SHA1: 61086f645db87992ed25dbd15caf5f987668053a
 SHA256: 92360dca3589aec6bfcc2dab4fdda0c7ba29028ea77dfd8bd2a2bb6f99c55750
 
+Package: aurora-base
+Version: 1.0.0-466
+Architecture: amd64
+Section: misc
+Priority: optional
+Maintainer: Selene OS <selene@selene-os.invalid>
+Installed-Size: 4736
+Description: Selene OS — system integration
+ Session scripts, privileged helpers, systemd units, greetd, sudoers, polkit,
+ AppArmor, X11 and apt settings of Selene OS, the os-release branding and the
+ Selene apt repository (signed with the Selene archive key).
+Filename: pool/main/a/aurora-base/aurora-base_1.0.0-466_amd64.deb
+Size: 2895972
+MD5sum: 9839907acddf63d6bd59dfcb6b5d11e4
+SHA1: 8f57fa0165abbd006c1cfb90f269908e2e3c3904
+SHA256: 806e036cd2d2a179c7b810af9e1c7479d9a127043658a434e1369c6a249006f7
+
 Package: aurora-electron
 Version: 44.7.0-1
 Architecture: amd64
@@ -84,3 +101,21 @@ Size: 28185804
 MD5sum: c148928942552a48b88faaf8ad0c55be
 SHA1: 4852d6b70c603310e83f53195ac47c48b5e66833
 SHA256: 283f30574d1df99e11870593e4e1e63a0ff744ec6862a5825423ba7d0a05413a
+
+Package: aurora-shell
+Version: 1.0.0-466
+Architecture: amd64
+Section: misc
+Priority: optional
+Maintainer: Selene OS <selene@selene-os.invalid>
+Installed-Size: 114228
+Depends: aurora-electron (>= 44.7.0), aurora-base (>= 1.0.0)
+Description: Selene OS — desktop shell and apps
+ The Selene Shell (/opt/aurora/shell): taskbar, Launcher, windows, the
+ sign-in screen and every Selene app, with their runtime npm modules.
+ A new version is used from the next session.
+Filename: pool/main/a/aurora-shell/aurora-shell_1.0.0-466_amd64.deb
+Size: 28186744
+MD5sum: eab54c124e2d9b55390f00657b5dc10e
+SHA1: 4c1c075566da97ae591870b4f8df8b26d11bff5e
+SHA256: 115bec81076ff0a5e815e995d402b8bfaa9498b07fafd2d6d7d2b4ff577dd57d
