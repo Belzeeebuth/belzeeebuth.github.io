@@ -3,19 +3,19 @@ Label: Selene OS
 Suite: noble
 Codename: noble
 Version: 1.0.0
-Date: Mon, 19 Oct 2026 13:28:38 UTC
+Date: Tue, 20 Oct 2026 12:37:31 UTC
 Architectures: amd64
 Components: main
 Description: Selene OS updates (shell, apps, helpers, Electron)
 MD5Sum:
- 2644a182c661a25131f6cf0d8a1f9ce4             2017 main/binary-amd64/Packages
- 0ba229edaf20b5d6cffacfd9ec5eeaa4              955 main/binary-amd64/Packages.gz
+ 0ff4331795425bbaae196097a211fb5b             3394 main/binary-amd64/Packages
+ 3cfbe6ac0401098a47ca235af3c0c560             1180 main/binary-amd64/Packages.gz
  657b00b688034142b764249c1d2defb8               86 main/binary-amd64/Release
 SHA1:
- c0dd5ecde4d922b2fae1e4fcc5d1fcc39232beb4             2017 main/binary-amd64/Packages
- 971633df9481c94bf92c8faeab1a9ee67a9302f3              955 main/binary-amd64/Packages.gz
+ f56483964d6fe1249f5487837f82a0aeda854a8b             3394 main/binary-amd64/Packages
+ 4fcb71f4138b9a38e2e76b25db7f95c822ba22aa             1180 main/binary-amd64/Packages.gz
  486b41830cc588880c2bef80e1a45fad5b86cd77               86 main/binary-amd64/Release
 SHA256:
- 8799e5b71c8432ce387a95a164be382c7e88ae38a8ca7565dc5eab2bef236097             2017 main/binary-amd64/Packages
- 6431a861e8349c89f0bca701a95d5ce6a33f476244c6ecddacfad09e6df8be06              955 main/binary-amd64/Packages.gz
+ 689c9200f01257c720aabce3b7c0217608f2c5a5f4cdac61706e6b5a229ee96c             3394 main/binary-amd64/Packages
+ 60f4377b4e32153051db0386182556b790c438dda2ff8e02b6eb36bd654753a7             1180 main/binary-amd64/Packages.gz
  bceff684038d21995f403eb7953af56a0d49787eb6bee88c75db9142144ef486               86 main/binary-amd64/Release
